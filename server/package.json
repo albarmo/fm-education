@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/albarmo/fm-education-server.git"
+    "url": "git+https://github.com/albarmo/fm-education.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/albarmo/fm-education-server/issues"
+    "url": "https://github.com/albarmo/fm-education/issues"
   },
-  "homepage": "https://github.com/albarmo/fm-education-server#readme",
+  "homepage": "https://github.com/albarmo/fm-education#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
